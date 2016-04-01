@@ -1,0 +1,11 @@
+To play the game:
+
+1. Select a board size corresponding to the number of spaces along the board's length and width.
+
+2. Click 'Start' to begin the countdown timer.
+
+3. Select an initial starting position for the knight, and move the knight to legal positions (i.e. following an 'L' shape).
+
+4. Each space can be visited only once.
+
+5. The game ends when either the player has visited every square on the board, has run out of legal moves or the timer runs out.
